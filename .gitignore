@@ -1,3 +1,4 @@
 raw_input_data/
 processed_data/
+input_data_*/
 .DS_Store
