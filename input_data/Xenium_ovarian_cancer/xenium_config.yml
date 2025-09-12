@@ -1,0 +1,7 @@
+---
+name: "Extracting single-cell images from XENIUM datasets"
+HDF5CellExtraction:
+    threads: 80 # threads used in multithreading
+    image_size: 224 # image size in pixel
+    segmentation_mask: "seg_all_cytosol"
+    normalize_output: False
