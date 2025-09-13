@@ -1,0 +1,2 @@
+batch_size: 256
+training_dir: /lustre/groups/ml01/workspace/alessandro.palma/scportrait/experiements

@@ -1,0 +1,13 @@
+# @package _global_
+
+# Default configurations
+defaults:
+  - _self_
+  - hparam_search: null
+  - checkpoints: default
+  - datamodule: healthy
+  - launcher: default
+  - logger: default
+  - model: default
+  - trainer: default
+  - training_config: default
