@@ -2,4 +2,6 @@ raw_input_data/
 processed_data/
 input_data_*/
 generated_files/
+checkpoints/
 .DS_Store
+.ipynb_checkpoints/
