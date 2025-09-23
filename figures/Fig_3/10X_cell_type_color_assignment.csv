@@ -1,0 +1,11 @@
+,10X_cell_type,color
+0,T and NK Cells,"(np.float64(0.1843137254901961), np.float64(0.3333333333333333), np.float64(0.6039215686274509), np.float64(1.0))"
+1,Unassigned,"(np.float64(0.2583775470972703), np.float64(0.4849058054594387), np.float64(0.6779853902345252), np.float64(1.0))"
+2,Stromal Associated Fibroblasts,"(np.float64(0.3324413687043445), np.float64(0.636478277585544), np.float64(0.7520492118415993), np.float64(1.0))"
+3,Stromal Associated Endothelial Cells,"(np.float64(0.5555555555555556), np.float64(0.738562091503268), np.float64(0.5385620915032681), np.float64(1.0))"
+4,Smooth Muscle Cells,"(np.float64(0.8225297962322184), np.float64(0.8177931564782775), np.float64(0.23024990388312183), np.float64(1.0))"
+5,Pericytes,"(np.float64(0.9456209150326798), np.float64(0.7526797385620915), np.float64(0.0875355632449058), np.float64(1.0))"
+6,Macrophages,"(np.float64(0.9163398692810458), np.float64(0.5477124183006536), np.float64(0.12026143790849673), np.float64(1.0))"
+7,Granulosa Cells,"(np.float64(0.8707574009996155), np.float64(0.3625990003844675), np.float64(0.1474817377931565), np.float64(1.0))"
+8,Fallopian Tube Epithelium,"(np.float64(0.7863590926566705), np.float64(0.25580930411380237), np.float64(0.15609381007304884), np.float64(1.0))"
+9,Ciliated Epithelial Cells,"(np.float64(0.7019607843137254), np.float64(0.14901960784313725), np.float64(0.16470588235294117), np.float64(1.0))"
