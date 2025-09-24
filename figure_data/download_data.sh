@@ -4,6 +4,18 @@ wget -O input_data_CODEX/scportrait_project_codex_region1.zip "https://datashare
 bsdtar -xf input_data_CODEX/scportrait_project_codex_region1.zip -C raw_input_data && rm input_data_CODEX/scportrait_project_codex_region1.zip
 wget -O input_data_CODEX/CITEseq_rna_processed_full_genome.h5ad "https://datashare.biochem.mpg.de/s/ayHoH4wFxJQ5a7J/download"
 
+# Golgi Data
+mkdir -p input_data_CODEX input_data_Golgi
+wget -O input_data_Golgi/Dataset_B_3channels_convnext.h5ad "https://datashare.biochem.mpg.de/s/DAwwmByD5XH8BSg/download"
+wget -O input_data_Golgi/Dataset_B_3channels_cp-measure.h5ad "https://datashare.biochem.mpg.de/s/DMwRib2NZzy6dqk/download"
+wget -O input_data_Golgi/Dataset_B_3channels_subcell.h5ad "https://datashare.biochem.mpg.de/s/38zoiJxgfBjKDLe/download"
+
+wget -O input_data_Golgi/GCA.h5sc "https://datashare.biochem.mpg.de/s/75eFz8f45sE2LGG/download"
+wget -O input_data_Golgi/Monensin.h5sc "https://datashare.biochem.mpg.de/s/JbwfL8BewffzqcT/download"
+wget -O input_data_Golgi/Nigericin/h5sc "https://datashare.biochem.mpg.de/s/AcmoT68wgQRRHoN/download"
+wget -O input_data_Golgi/Nocodazole.h5sc "https://datashare.biochem.mpg.de/s/2YieS49sXBRFHEg/download"
+wget -O input_data_Golgi/unstim.h5sc "https://datashare.biochem.mpg.de/s/bAZbJTpAzqCYsy3/download"
+
 # Xenium data
 mkdir -p input_data_Xenium
 wget -O input_data_Xenium/xenium_scportrait_sdata.tar.gz "https://datashare.biochem.mpg.de/s/fQAYAk6Ze6aApiP/download"
